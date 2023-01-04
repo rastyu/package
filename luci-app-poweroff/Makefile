@@ -6,8 +6,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-poweroff
-LUCI_DESCRIPTION:=provides Web UI to shut down (power off) your device.
-PKG_VERSION:=20230101
+PKG_VERSION:=20200726
 PKG_RELEASE:=1
 LUCI_TITLE:=LuCI Support of PowerOff Router
 LUCI_PKGARCH:=all
