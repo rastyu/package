@@ -25,7 +25,7 @@ msgid "Warning: There are unsaved changes that will get lost on shutting down!"
 msgstr "警告：未保存的配置在关机的时候将会丢失!"
 
 msgid "Waiting for device..."
-msgstr "等待设备关机完成"
+msgstr "设备关机完成"
 
 msgid "Router is shutting down..."
 msgstr "正在关机..."
