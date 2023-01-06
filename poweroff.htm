@@ -11,9 +11,9 @@
 
 <p>关闭您正在使用设备的电源</p>
 
-
-<p class="alert-message warning">警告：对于不支持关机的设备，关机可能会导致重新启动.</p>
-
+<%- local c = require("luci.model.uci").cursor():changes(); if c and next(c) then -%>
+         <p class="alert-message warning">警告：对于不支持关机的设备，关机可能会导致重新启动.</p>
+<%- end -%>
 
 <hr />
 
