@@ -1,3 +1,3 @@
 ## Acknowledgments
-- [sirpdboy](https://github.com/sirpdboy)
-- [thinktip](https://github.com/thinktip/luci-theme-neobird.git )
+- [sirpdboy](https://github.com/sirpdboy/luci-app-poweroffdevice)
+- [thinktip](https://github.com/thinktip/luci-theme-neobird)
